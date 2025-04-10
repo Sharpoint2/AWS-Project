@@ -1,3 +1,5 @@
+Example project showcases aws skills
+
 Will need some setup in the Amazon Developer Console to work:
 
 Will need to create a skill to play sounds, link it to the program, and then perform the following steps: 
